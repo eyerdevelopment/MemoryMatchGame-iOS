@@ -37,7 +37,7 @@ An iOS memory matching game built using Swift and UIKit, featuring adaptive layo
 ![Game Screen](screenshots/game-screen.png)
 
 ### High Scores
-![High Scores](screenshots/high-scores.png)
+![High Scores](screenshots/restart-screen.png)
 
 ---
 
